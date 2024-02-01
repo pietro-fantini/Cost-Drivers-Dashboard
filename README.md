@@ -1,4 +1,4 @@
-**Problem**: Every year Vendor Managers (VMs) negotiate with vendors to agree upon a price for which to source products. The procedure till now was to ask for price reductions based on anecdotes and VMs experience. I highlighted that as pain point for a data driven company and created a solution.
+**Problem**: Every year Amazon Vendor Managers (VMs) negotiate with vendors to agree upon a price for which to source products. The procedure till now was to ask for price reductions based on anecdotes and VMs experience. I highlighted that as pain point for a data driven company and created a solution.
 
 **Solution**: I created a dashboard which collects the trend of the main cost drivers e.g., raw materials, shipping, energy (App. 1), and of the main indexes which can be associated to a group of products (App. 2).
 
