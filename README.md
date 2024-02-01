@@ -12,6 +12,7 @@
   5. Top & Bottom performer section connected with a monthly newsletter flash to spot for VMs if their products price are drastically increasing or decreasing (App. 3).
 
 **App. 1**
+
 ![image](https://github.com/pietro-fantini/Cost-Drivers-Dashboard/assets/136325329/f9eaddad-416a-4535-a246-b901a89a03fd)
 
 **App. 2**
